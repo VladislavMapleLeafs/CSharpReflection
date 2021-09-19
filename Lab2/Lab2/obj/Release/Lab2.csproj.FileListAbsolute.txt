@@ -1,0 +1,9 @@
+C:\Users\vladi\SharpProjects\Lab2\Lab2\bin\Release\Lab2.exe.config
+C:\Users\vladi\SharpProjects\Lab2\Lab2\bin\Release\Lab2.exe
+C:\Users\vladi\SharpProjects\Lab2\Lab2\bin\Release\Lab2.pdb
+C:\Users\vladi\SharpProjects\Lab2\Lab2\obj\Release\Lab2.Form1.resources
+C:\Users\vladi\SharpProjects\Lab2\Lab2\obj\Release\Lab2.Properties.Resources.resources
+C:\Users\vladi\SharpProjects\Lab2\Lab2\obj\Release\Lab2.csproj.GenerateResource.cache
+C:\Users\vladi\SharpProjects\Lab2\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\SharpProjects\Lab2\Lab2\obj\Release\Lab2.exe
+C:\Users\vladi\SharpProjects\Lab2\Lab2\obj\Release\Lab2.pdb
